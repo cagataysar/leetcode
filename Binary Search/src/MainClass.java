@@ -1,21 +1,26 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+import java.util.stream.Collectors;
+
 public class MainClass {
 
     public static void main(String[] args) {
         MainClass mainClass = new MainClass();
-        mainClass.search(new int[]{2, 3, 6, 7, 9, 2},5);
+        mainClass.search(new int[]{2, 3, 5, 7, 9, 2},9);
     }
 
-    public int search(int[] nums, int target) {
-        int i;
-        System.out.println(nums.length);
-        System.out.println(nums[0]);
+    static void search(int[] nums, int target) {
 
-        for(i = 0; i < nums.length - 1; i++) {
-            //System.out.print(" nums" + i + " " + nums[i]);
-                if (nums[i] == target) {
-                    return nums[i];
-            } else System.out.println(-1);
+        int i ;
+        for (i = 0; i < nums.length - 1; i++) {
+            if (nums[i] == target) {
+                System.out.println(i);
+                break;
+            }
         }
-        return i;
+
+
     }
 }
