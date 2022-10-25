@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Search Insert Position/Search Insert Position.iml" filepath="$PROJECT_DIR$/Search Insert Position/Search Insert Position.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PalindromicString/PalindromicString.iml" filepath="$PROJECT_DIR$/PalindromicString/PalindromicString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchInsertPosition/SearchInsertPosition.iml" filepath="$PROJECT_DIR$/SearchInsertPosition/SearchInsertPosition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SquaresOfSortedArray/SquaresOfSortedArray.iml" filepath="$PROJECT_DIR$/SquaresOfSortedArray/SquaresOfSortedArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
     </modules>
   </component>

@@ -2,7 +2,7 @@ public class SearchClass {
 
     public static void main(String[] args) {
         SearchClass sClass = new SearchClass();
-        sClass.searchInsert(new int[]{1,3,4,5,6,7},4 );
+        sClass.searchInsert(new int[]{1,3,4,5,6,7},6 );
 
     }
 
@@ -17,7 +17,7 @@ public class SearchClass {
         int min;
         int max = nums.length;
 
-        for (i = 0; i < nums.length - 1; i++) {
+        for (i = 0; i < nums.length; i++) {
             if (nums[i] == target) {
                 System.out.println(i);
                 break;
