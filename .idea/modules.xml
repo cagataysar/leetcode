@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PalindromicString/PalindromicString.iml" filepath="$PROJECT_DIR$/PalindromicString/PalindromicString.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SearchInsertPosition/SearchInsertPosition.iml" filepath="$PROJECT_DIR$/SearchInsertPosition/SearchInsertPosition.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SquaresOfSortedArray/SquaresOfSortedArray.iml" filepath="$PROJECT_DIR$/SquaresOfSortedArray/SquaresOfSortedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/easy/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy/ContainsDuplicate/ContainsDuplicate.iml" filepath="$PROJECT_DIR$/easy/ContainsDuplicate/ContainsDuplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy/FindPivotIndex/FindPivotIndex.iml" filepath="$PROJECT_DIR$/easy/FindPivotIndex/FindPivotIndex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy/PalindromicString/PalindromicString.iml" filepath="$PROJECT_DIR$/easy/PalindromicString/PalindromicString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy/SearchInsertPosition/SearchInsertPosition.iml" filepath="$PROJECT_DIR$/easy/SearchInsertPosition/SearchInsertPosition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy/SquaresOfSortedArray/SquaresOfSortedArray.iml" filepath="$PROJECT_DIR$/easy/SquaresOfSortedArray/SquaresOfSortedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy/UsernameValidation/UsernameValidation.iml" filepath="$PROJECT_DIR$/easy/UsernameValidation/UsernameValidation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy/easy.iml" filepath="$PROJECT_DIR$/easy/easy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hard/hard.iml" filepath="$PROJECT_DIR$/hard/hard.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/medium/medium.iml" filepath="$PROJECT_DIR$/medium/medium.iml" />
     </modules>
   </component>
 </project>
