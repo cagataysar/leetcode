@@ -19,7 +19,7 @@ public class FindPivotIndex {
         int firstSum = 0;
         int secondSum = 0;
         int i, j, k;
-        for (i = 1; i < nums.length; i++) {
+        for (i = 0; i < nums.length - 1; i++) {
             for (j = 0; j < i; j++) {
                 firstSum += j;
             }
